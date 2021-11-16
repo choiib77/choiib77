@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffea74&customColorList=0,2,2,5,30&height=150&section=header&text=SooJeong%20Choi&fontSize=70&fontColor=8c859a&animation=twinkling)
 
+<div align="center">
+  <h4>Hi there 👋, i wanna be a developer </h4>
 
-##### Hi there 👋, i wanna be a developer
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning 
-
+ 🔭 I’m currently working on this page. <br>
+ 🌱 I’m currently learning 
+</div>
 
 <!---
 choiib77/choiib77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
