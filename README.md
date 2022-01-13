@@ -4,7 +4,10 @@
   <h4>Hi there 👋, i wanna be a developer </h4>
 
  🔭 I’m currently working on this page. <br>
- 🌱 I’m currently learning 
+ 🌱 I’m currently learning <br>
+  <br>
+  <h3>skills</h3>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 
 <!---
