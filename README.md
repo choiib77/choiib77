@@ -7,7 +7,7 @@
  🌱 I’m currently learning <br>
   <br>
   <h3>skills</h3>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 
 <!---
