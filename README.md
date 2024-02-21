@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffea74&customColorList=0,2,2,5,30&height=150&section=header)
 
 <div align="center">
-  <h4>안녕하세요 👋, 프론트엔드를 꿈꾸는 웹퍼블리셔 최수정입니다. </h4>
+  <span>안녕하세요 👋, 프론트엔드를 꿈꾸는 웹퍼블리셔 최수정입니다. </span>
 
- 🌱 열심히 배우고 익히려고 노력하고있습니다. <br> 
+ <span>🌱 열심히 배우고 익히려고 노력하고있습니다. </span>
+  <br> 
  
   <br>
   <h4>🛠skills🛠</h4>
