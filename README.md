@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffea74&customColorList=0,2,2,5,30&height=150&section=header)
 
 <div align="center">
-  <h4>Hi there 👋, i wanna be a developer </h4>
+  <h4>안녕하세요 👋, 프론트엔드를 꿈꾸는 웹퍼블리셔 최수정입니다. </h4>
 
- 🔭 I’m currently working on this page. <br>
- 🌱 I’m currently learning <br>
+ 🌱 열심히 배우고 익히려고 노력하고있습니다. <br> 
+ 
   <br>
   <h4>🛠skills🛠</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -16,11 +16,15 @@
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <br><br>
-<!--   <h4>📗studying📗</h4>
+  <h4>📗studying📗</h4>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <!-- 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> -->
 </div>
+
+
 
 <!---
 choiib77/choiib77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
