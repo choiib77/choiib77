@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffea74&customColorList=0,2,2,5,30&height=150&section=header)
 
 <div align="center">
-  <span>안녕하세요 👋, 프론트엔드를 꿈꾸는 웹퍼블리셔 최수정입니다. </span>
+  <span>HEllo 👋, I'm gonna be a developer </span>
 
- <span>🌱 열심히 배우고 익히려고 노력하고있습니다. </span>
+ <span>🌱 So I'm trying hard to learn and learn </span>
   <br> 
  
   <br>
