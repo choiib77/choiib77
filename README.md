@@ -20,6 +20,7 @@
   <h4>📗studying📗</h4>
   <img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/typescript-20232a?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/nextdotjs-20232a?style=flat-square&logo=nextdotjs&logoColor=000000">
   <!-- 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
